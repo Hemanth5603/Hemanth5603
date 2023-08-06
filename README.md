@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [CLUB](https://github.com/Metacomic-Work/club)
 
-- 👨‍💻 Explore more at [http://itsmehemanth.42web.io/?i=3](http://itsmehemanth.42web.io/?i=3)
+- 👨‍💻 Explore more at [itsmehemanth.io](http://itsmehemanth.42web.io/?i=3)
 
 - 💬 Ask me about **Android, Flutter**
 
