@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hemanth srinivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth srinivas" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hemanth-srinivas-a20b21231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth srinivas" height="30" width="40" /></a>
 <a href="https://instagram.com/hemanth56036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemanth56036" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hemanth5603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemanth5603" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hemanth_5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemanth_5603" height="30" width="40" /></a>
