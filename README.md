@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth Srinivas</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Mobile developer from India</h3>
 
 
 
