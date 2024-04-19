@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,golang,firebase,dart,androidstudio,postgres,cassandra" />
+    <img src="https://skillicons.dev/icons?i=flutter,golang,kafka,firebase,dart,androidstudio,postgres,cassandra" />
   </a>
 </p>
 
