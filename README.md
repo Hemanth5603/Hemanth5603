@@ -10,9 +10,9 @@
 
 
 
-- 🔭 Currently making my hands dirty with GoLang
+- 👨‍💻 Currently making my hands dirty with GoLang
 
-- 👨‍💻 Wanna Know more on me ??? [[Portfolio](https://coderxop.vercel.app/)]
+- 🔭 Wanna Know more on me ??? [[Portfolio](https://coderxop.vercel.app/)]
 
 - 💬 Ask me about **Android, Flutter**
 
