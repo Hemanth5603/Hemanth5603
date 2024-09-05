@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on [GoLang]
+- 🔭 Currently making my hands dirty with GoLang
 
 - 👨‍💻 Explore more at [itsmehemanth.io](http://itsmehemanth.42web.io/?i=3)
 
