@@ -10,7 +10,7 @@
 
 
 
-- 👨‍💻 Currently making my hands dirty with GoLang
+- 👨‍💻 Working on Golang
 
 - 🔭 Wanna Know more on me ??? [[Portfolio](https://coderxop.vercel.app/)]
 
